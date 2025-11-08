@@ -3,7 +3,7 @@
 ## Senior DevSecOps Architect | Lead AI Engineer
 
 📍 San José, Costa Rica | 🌎 Open to Remote Opportunities  
-🏢 Leading Tech/Financial Company
+🏢 Leading a Tech/Financial Company
 
 ---
 
@@ -50,9 +50,10 @@ I believe we're at the dawn of a **transformative era** where AI will revolution
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 **LLM Platforms**: OpenAI, Anthropic (Claude, Sonnet, Opus), Google Gemini  
-**Development Tools**: GitHub Copilot, LLM Studio, Ollama
+**Development Tools**: VS Code, GitHub Copilot, LLM Studio, Ollama
 
 **AI Applications in DevSecOps**:
 - 🔄 Pipeline automation with intelligent agents
