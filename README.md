@@ -93,7 +93,7 @@ As a leader in DevSecOps and AI innovation, I focus on:
 
 I'm always open to discussing AI, DevSecOps innovation, and technology leadership.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guido-delgado-3331266/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guido-delgado-hern%C3%A1ndez-3331266/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guido.delgado@gmail.com)
 
 💡 *Open to collaborations, speaking opportunities, and innovative projects at the intersection of AI and DevSecOps.*
